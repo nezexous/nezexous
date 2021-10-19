@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [personal website](https://nezex.xyz)
 
-- 📫 Discord **nezexous#1542**
+- 📫 Discord **ordeklexsalvo#3001**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
