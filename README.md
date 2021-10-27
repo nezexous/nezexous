@@ -9,7 +9,7 @@
     <a href="https://discord.com/users/850638859477712926" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/850638859477712926)](https://discord.com/users/850638859477712926"></a>
 </div>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/850638859477712926)](https://discord.com/users/850638859477712926)
+
 
 
 
