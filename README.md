@@ -7,6 +7,8 @@
 
 - 📫 Discord **ordek#0112**
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nezexous&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/nezexous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nezexous" height="30" width="40" /></a>
