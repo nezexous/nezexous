@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on [personal website](https://ordek.tech)
 
-https://lanyard-profile-readme.vercel.app/api/850638859477712926)](https://discord.com/users/850638859477712926
-
-
+(https://lanyard-profile-readme.vercel.app/api/850638859477712926)](https://discord.com/users/850638859477712926)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
