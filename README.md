@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nezexous&label=Profile%20views&color=0e75b6&style=flat" alt="nezexous" /> </p>
 
-- 🔭 I’m currently working on [personal website](https://nezex.xyz)
+- 🔭 I’m currently working on [personal website](https://ordek.tech)
 
-- 📫 Discord **ordeklexsalvo#3001**
+- 📫 Discord **ordek#0112**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
